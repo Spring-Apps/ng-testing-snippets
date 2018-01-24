@@ -42,7 +42,7 @@
     "@types/node": "~9.3.0",
     "chai": "^4.1.0",
     "codelyzer": "~4.1.0",
-    "cucumber": "^3.0.0",
+    "cucumber": "^4.0.0",
     "forever": "^0.15.3",
     "jasmine-core": "~2.9.0",
     "jasmine-spec-reporter": "~4.2.0",
